@@ -9,3 +9,7 @@ Aula 1 - Criar o diretório e a venv fora do arquivo do diretório
 
 
 Aula 2 - django-admin startproject django1 .  (não esquecer do espaço + ponto)  
+
+Aula 3 - django-admin startapp core 
+        modificar o arquivo settings.py e adicionar a aplicação criada.
+        adicionar 'templates' em 'DIRS' no dicionário TEMPLATES dentro de settings.py
