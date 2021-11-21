@@ -16,3 +16,5 @@ Aula 3 - django-admin startapp core
 
 Aula 7 - Para DEVENVOLVIMENTO, quando você precisar alterar DEBUG = False, colocar '*' em ALLOWED.HOSTS em settings.py, para a aplicação funcionar.
         Alterar LANGUAGE_CODE= 'en-us', para 'pt-br'
+
+Aula 8 - Criação da função index em view.py dentro da aplicação core.
