@@ -13,3 +13,6 @@ Aula 2 - django-admin startproject django1 .  (não esquecer do espaço + ponto)
 Aula 3 - django-admin startapp core 
         modificar o arquivo settings.py e adicionar a aplicação criada.
         adicionar 'templates' em 'DIRS' no dicionário TEMPLATES dentro de settings.py
+
+Aula 7 - Para DEVENVOLVIMENTO, quando você precisar alterar DEBUG = False, colocar '*' em ALLOWED.HOSTS em settings.py, para a aplicação funcionar.
+        Alterar LANGUAGE_CODE= 'en-us', para 'pt-br'
